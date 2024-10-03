@@ -1,0 +1,21 @@
+body{
+    background: rgba(148, 0, 153, 0.705);
+}
+#start-btn{
+    width: 50px;
+    border-radius: 58;
+    background: rgb(255, 255, 255);
+    color: red
+
+}
+
+#logo{
+    width: 100px;
+    height: 75px;
+    border-radius: 100px;
+}
+#tb{
+    width: 300px;
+    border-radius: 25%;
+    background: aquamarine;
+}
